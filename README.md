@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Alisch et al., "MAPLE (modular automated platform for large-scale experiments), a robot for integrated organism-handling and phenotyping". eLife, 2018. http://dx.doi.org/10.7554/eLife.37166
+
 # MAPLE v2 Control Software
 
 This repository contains the software to control the FlySorter fly manipulation platform,
